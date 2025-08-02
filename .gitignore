@@ -4,4 +4,4 @@
 *.so
 *.dsk
 *.ROM
-
+*_local.*
